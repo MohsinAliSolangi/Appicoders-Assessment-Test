@@ -23,7 +23,6 @@ This repository contains a complete staking platform & OnChain Referral System b
 
 ## 📂 Project Structure
 
-```bash
 Appicoders-Assessment-Test/
 ├── contracts/
 │   ├── ReferralSystem.sol
@@ -136,11 +135,7 @@ npx hardhat run scripts/deploy.js --network hardhat
 This project is licensed under the MIT License.
 
 ---
-
 ## 🙌 Author
 
 **Mohsin Ali Solangi**  
 [GitHub Profile](https://github.com/MohsinAliSolangi)
-
----
-```

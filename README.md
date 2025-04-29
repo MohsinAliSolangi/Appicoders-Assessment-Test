@@ -23,7 +23,7 @@ This repository contains a complete staking platform & OnChain Referral System b
 
 ## 📂 Project Structure
 
-```
+```bash
 Appicoders-Assessment-Test/
 ├── contracts/
 │   ├── ReferralSystem.sol
